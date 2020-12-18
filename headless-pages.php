@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Headless Pages
-Plugin URI:  http://www.52west.net
+Plugin URI:  https://github.com/johnmmackey/wp-headless-pages
 Description: Disables the default WP editor and other unneeded features on the Page Edit screen for use in headless CMS applications
 Version:     1.0.0
 Author:      John Mackey
